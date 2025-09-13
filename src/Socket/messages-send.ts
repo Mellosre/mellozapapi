@@ -1,3 +1,5 @@
+ajuste meu codigo esse é o funcional com os dados que estao faltando 
+
 import NodeCache from '@cacheable/node-cache'
 import { Boom } from '@hapi/boom'
 import { proto } from '../../WAProto'
